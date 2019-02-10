@@ -4,8 +4,6 @@
  Forked by sinBrive Jan 2019
  -------------------------------------*/
 
-ArrayList<Tile> snakeList;
-
 Tile food;
 
 final int wTile = 10;
