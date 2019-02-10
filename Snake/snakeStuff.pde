@@ -1,3 +1,5 @@
+ArrayList<Tile> snakeList;
+
 final color colorSnake = #7B6DB7;
 
 void snakeInit() {
